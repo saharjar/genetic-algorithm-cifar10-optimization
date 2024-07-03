@@ -14,7 +14,7 @@ To run this project, you need to have Python and the following packages installe
 You can install the required packages using the following command:
 ```bash
 pip install numpy tensorflow keras scikit-learn matplotlib
-
+```
 ## Clone the repository 
 
 git clone https://github.com/your-username/genetic-algorithm-cifar10-optimization.git
